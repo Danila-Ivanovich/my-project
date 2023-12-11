@@ -1,6 +1,6 @@
 file is cool
 i'am QA
-must have
 Add line
 vetka super
 conflict
+gui new
